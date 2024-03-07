@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-lagiiii
-=======
->>>>>>> parent of 13d76e4 (tolong kosongkan kembali)
+ubah total
